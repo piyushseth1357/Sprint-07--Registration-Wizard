@@ -17,6 +17,12 @@ Welcome to my submission for **Sprint 07: The Registration Wizard**. This projec
   - Migrated state architecture to the high-performance **React Hook Form (RHF)**.
   - Enforced strict type-safe data validation using **Zod** schema.
 
+## Important Link
+
+Live demo - https://sprint-07-registration-wizard.vercel.app/
+github repo link - https://github.com/piyushseth1357/Sprint-07--Registration-Wizard.git
+
+
 ## 🛠️ Tech Stack & Tooling
 
 To ensure optimal performance, maintainability, and enterprise readiness, the following tech stack was utilized:
@@ -67,3 +73,8 @@ src/
    ```
 
 Enjoy exploring the Wizard!
+
+## Developed by
+ Piyush Seth
+## Git link
+https://github.com/piyushseth1357/Sprint-07--Registration-Wizard.git
